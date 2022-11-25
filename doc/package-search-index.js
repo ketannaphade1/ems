@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.yash.springboot"},{"l":"com.yash.springboot.Confg"},{"l":"com.yash.springboot.Controller"},{"l":"com.yash.springboot.Exception"},{"l":"com.yash.springboot.Model"},{"l":"com.yash.springboot.Repository"},{"l":"com.yash.springboot.Service"},{"l":"net.javaguides.springboot"}];updateSearchResults();
